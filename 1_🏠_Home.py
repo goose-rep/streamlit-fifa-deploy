@@ -1,7 +1,6 @@
 import streamlit as st
 import webbrowser
 import pandas as pd
-from datetime import datetime
 import data_load as dl
 
 dl.data_load()
